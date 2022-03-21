@@ -1,0 +1,139 @@
+{
+  "students": [
+    {
+      "FirstName": "Abdelbasset",
+      "LastName": "Babeker",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 1
+    },
+    {
+      "FirstName": "Aissa",
+      "LastName": "Gallil",
+      "Gander": "male",
+      "Level": "university",
+      "Course": "Math",
+      "id": 2
+    },
+    {
+      "FirstName": "Hammo",
+      "LastName": "Bohdiba",
+      "Gander": "male",
+      "Level": "preymaire",
+      "Course": "Arabic",
+      "id": 3
+    },
+    {
+      "FirstName": "Lamia",
+      "LastName": "bensalmi",
+      "Gander": "woman",
+      "Level": "High School",
+      "Course": "English",
+      "id": 4
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 5
+    },
+    {
+      "FirstName": "Abdelbasset",
+      "LastName": "Babeker",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 6
+    },
+    {
+      "FirstName": "Aissa",
+      "LastName": "Gallil",
+      "Gander": "male",
+      "Level": "university",
+      "Course": "Math",
+      "id": 7
+    },
+    {
+      "FirstName": "Hammo",
+      "LastName": "Bohdiba",
+      "Gander": "male",
+      "Level": "preymaire",
+      "Course": "Arabic",
+      "id": 8
+    },
+    {
+      "FirstName": "Lamia",
+      "LastName": "bensalmi",
+      "Gander": "woman",
+      "Level": "High School",
+      "Course": "English",
+      "id": 9
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 10
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 11
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 12
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 13
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 14
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 15
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Mellel",
+      "Gander": "male",
+      "Level": "High School",
+      "Course": "Math",
+      "id": 16
+    }
+  ],
+  "atendedcourse": [
+    {
+      "cours": "arabic",
+      "paymenetmathod": "level",
+      "id": 1
+    }
+  ]
+}

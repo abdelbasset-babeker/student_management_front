@@ -1,0 +1,14 @@
+{
+    "atendedcourse": [
+        {
+            "course": "Arabic",
+            "paymentMethod": "Monthely",
+            "id": 1
+        },
+        {
+            "course": "Math",
+            "paymentMethod": "Weekley",
+            "id": 2
+        }
+    ]
+}
